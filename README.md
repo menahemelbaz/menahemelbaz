@@ -1,21 +1,21 @@
-# Hi, I'm Menahem Elbaz
+# Hi, I'm Menahem Elbaz 👋
 
 Final-year Computer Science student at Bar-Ilan University, interested in full-stack development, especially backend and web applications.
 
-## About Me
+## 👨‍💻 About Me
 
 * Computer Science student at Bar-Ilan University
 * Interested in Full Stack and Backend development
 * Building academic and personal software projects
 * Currently working on an AI-powered Chrome Extension for recorded lectures
 
-## Skills
+## 🛠️ Skills
 
-**Programming Languages:** C, Java, Python, JavaScript, TypeScript, Assembly
-**Backend & Tools:** Node.js, Express.js, WebSocket, Git, GitHub
-**Other:** Chrome Extension APIs, OpenAI APIs, Object-Oriented Programming
+* **Programming Languages:** C, Java, Python, JavaScript, TypeScript, Assembly
+* **Backend & Tools:** Node.js, Express.js, WebSocket, Git, GitHub
+* **Other:** Chrome Extension APIs, OpenAI APIs, Object-Oriented Programming
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### AI Lecture Assistant – Chrome Extension
 
