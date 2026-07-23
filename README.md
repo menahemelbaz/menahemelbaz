@@ -8,7 +8,7 @@ I'm currently seeking a **software development student position** where I can co
 
 ## 🚀 Featured Project
 
-### [AI Lecture Assistant – Chrome Extension](YOUR_PROJECT_REPOSITORY_LINK)
+### AI Lecture Assistant – Chrome Extension
 
 A Chrome Extension that transforms recorded lectures into useful study materials.
 
