@@ -1,42 +1,58 @@
 # Hi, I'm Menahem Elbaz 👋
 
-Final-year Computer Science student at Bar-Ilan University, interested in full-stack development, especially backend and web applications.
+I'm a Computer Science student at Bar-Ilan University who enjoys learning by building real software.
 
-## 👨‍💻 About Me
+My main interests are backend and full-stack development, with a focus on turning ideas into practical applications. I'm currently developing an AI-powered Chrome Extension designed to help students learn more effectively from recorded lectures.
 
-* Computer Science student at Bar-Ilan University
-* Interested in Full Stack and Backend development
-* Building academic and personal software projects
-* Currently working on an AI-powered Chrome Extension for recorded lectures
+## 👨‍💻 What I'm Working On
 
-## 🛠️ Skills
+### AI Lecture Assistant
 
-* **Programming Languages:** C, Java, Python, JavaScript, TypeScript, Assembly
-* **Backend & Tools:** Node.js, Express.js, WebSocket, Git, GitHub
-* **Other:** Chrome Extension APIs, OpenAI APIs, Object-Oriented Programming
+A Chrome Extension that transforms recorded lectures into useful study materials.
 
-## 🚀 Featured Projects
+The project combines browser APIs, real-time communication, backend development, and AI services to:
 
-### AI Lecture Assistant – Chrome Extension
-
-A Chrome Extension that helps students learn from recorded lectures by capturing lecture audio, transcribing it, and generating AI-based study tools.
-
-* Captures and transcribes lecture audio
-* Uses a Node.js backend with WebSocket and OpenAI Whisper integration
-* Generates PDF lecture summaries
-* Provides a lecture-based AI chat
-* Creates practice questions from the lecture content
+* Capture and transcribe lecture audio
+* Generate structured PDF summaries
+* Provide an AI chat based on lecture content
+* Create practice questions for students
+* Communicate with a Node.js backend using WebSocket
 
 **Tech Stack:** TypeScript, JavaScript, Node.js, Express.js, WebSocket, Chrome Extension APIs, OpenAI APIs
 
----
+## 🚀 How I Like to Learn
 
-### Arkanoid Game – Java OOP Project
+I enjoy taking concepts from my Computer Science studies and applying them through hands-on projects.
+
+Building complete applications helps me improve not only my programming skills, but also my understanding of software structure, communication between components, debugging, and object-oriented design.
+
+## 🛠️ Technologies
+
+**Programming Languages**
+
+`C` · `Java` · `Python` · `JavaScript` · `TypeScript` · `Assembly`
+
+**Backend and Development Tools**
+
+`Node.js` · `Express.js` · `WebSocket` · `Git` · `GitHub`
+
+**Additional Experience**
+
+`Chrome Extension APIs` · `OpenAI APIs` · `Object-Oriented Programming`
+
+## 🎮 Additional Project
+
+### Arkanoid Game
 
 An object-oriented Arkanoid game developed in Java as part of an academic project.
 
-* Built game entities using object-oriented design
-* Implemented collision detection, paddle movement, score tracking, and game loop logic
-* Used interfaces and listener-based design to manage sprites, collisions, and game events
+The project includes:
+
+* Object-oriented game entities
+* Collision detection
+* Paddle movement
+* Score tracking
+* Game loop logic
+* Interface-based and listener-based design for sprites, collisions, and game events
 
 **Tech Stack:** Java, Object-Oriented Programming
