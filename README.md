@@ -39,4 +39,4 @@ The project combines browser APIs, backend development, real-time communication,
 ## 📫 Let's Connect
 
 * [LinkedIn](YOUR_LINKEDIN_PROFILE_LINK)
-* [Email](mailto:YOUR_EMAIL_ADDRESS)
+* [Email](mailto:elbazmm7700@gmail.com)
