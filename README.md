@@ -14,13 +14,11 @@ A Chrome Extension that transforms recorded lectures into useful study materials
 
 The project combines browser APIs, backend development, real-time communication, and AI services to:
 
-* Capture and transcribe lecture audio
 * Generate structured PDF lecture summaries
 * Provide an AI chat based on lecture content
 * Create practice questions from recorded lectures
-* Communicate with a Node.js backend using WebSocket
 
-**Tech Stack:** TypeScript, JavaScript, Node.js, Express.js, WebSocket, Chrome Extension APIs, OpenAI APIs
+**Tech Stack:** TypeScript, Chrome Extension APIs, OpenAI APIs
 
 ## 🛠️ Technologies
 
