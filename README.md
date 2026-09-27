@@ -1,34 +1,28 @@
 # Hi, I'm Menahem Elbaz 👋
 
-I'm a Computer Science student at Bar-Ilan University, interested in backend and full-stack development.
-
-I enjoy learning by building complete software projects and turning ideas into practical applications. I'm currently developing an AI-powered Chrome Extension designed to help students learn more effectively from recorded lectures.
-
-I'm currently seeking a **software development student position** where I can contribute, strengthen my development skills, and gain experience working on real-world software.
+Computer Science student at Bar-Ilan University and software developer
+with hands-on experience building and publishing user-facing software,
+integrating APIs, and developing AI-powered features.
 
 ## 🚀 Featured Project
 
-### AI Lecture Assistant – Chrome Extension
+### AI Lecture Assistant — Chrome Extension
 
-A Chrome Extension that transforms recorded lectures into useful study materials.
+A published Chrome extension that transforms recorded lectures into an
+interactive study experience directly inside the browser.
 
-The project combines browser APIs, backend development, real-time communication, and AI services to:
+- Captures lecture audio through Chrome Extension APIs
+- Generates transcripts, structured summaries, and contextual Q&A
+- Creates practice quizzes based on the recorded lecture
 
-* Generate structured PDF lecture summaries
-* Provide an AI chat based on lecture content
-* Create practice questions from recorded lectures
+Built with: TypeScript, Chrome Extension APIs, Web Audio API, and OpenAI APIs
 
-**Tech Stack:** TypeScript, Chrome Extension APIs, OpenAI APIs
+## 🛠 Technical Skills
 
-## 🛠️ Technologies
+Languages: C++, C, Java, Python, JavaScript, TypeScript
 
-**Programming Languages**
-
-`C` · `Java` · `Python` · `JavaScript` · `TypeScript` · `Assembly`
-
-**Backend and Development Tools**
-
-`Node.js` · `Express.js` · `WebSocket` · `Git` · `GitHub`
+Technologies: Linux, Git, REST APIs, Chrome Extension APIs,
+Web Audio API, OpenAI APIs, HTML, CSS
 
 **Additional Experience**
 
