@@ -1,4 +1,4 @@
-# Hi, I'm Menahem Elbaz 👋
+# Hi, I'm Menahem 👋
 
 Computer Science student at Bar-Ilan University and software developer
 with hands-on experience building and publishing user-facing software,
