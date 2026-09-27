@@ -17,16 +17,16 @@ interactive study experience directly inside the browser.
 
 Built with: TypeScript, Chrome Extension APIs, Web Audio API, and OpenAI APIs
 
+[View on Chrome Web Store](https://chromewebstore.google.com/detail/cjjakhigegkmijjjjjiidgfgdnkaigei)
+·
+[View Project Showcase](https://github.com/menahemelbaz/ai-lecture-assistant-showcase)
+
 ## 🛠 Technical Skills
 
-Languages: C++, C, Java, Python, JavaScript, TypeScript
+Languages: C, C++, Java, Python, TypeScript, JavaScript
 
 Technologies: Linux, Git, REST APIs, Chrome Extension APIs,
 Web Audio API, OpenAI APIs, HTML, CSS
-
-**Additional Experience**
-
-`Chrome Extension APIs` · `OpenAI APIs` · `Object-Oriented Programming`
 
 ## 📫 Let's Connect
 
